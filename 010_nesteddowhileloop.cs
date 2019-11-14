@@ -2,7 +2,7 @@ using System;
 
 namespace LearnCSharp
 {
-    public class WhileLoop
+    public class NestedDoWhileLoop
     {
         static void Main(string[] args)
         {
