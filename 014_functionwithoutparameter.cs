@@ -10,8 +10,8 @@ namespace LearnCSharp
         }
         static void Main(string[] args)
         {
-            FunctionWithoutStatement FWS = new FunctionWithoutStatement();
-            FWS.Show();
+            FunctionWithoutParameter FWP = new FunctionWithoutParameter();
+            FWP.Show();
         }
     }
 }
