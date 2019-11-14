@@ -2,7 +2,7 @@ using System;
 
 namespace LearnCSharp
 {
-    public class FunctionWithoutStatement
+    public class FunctionWithoutParameter
     {
         public void Show()
         {
